@@ -14,9 +14,8 @@ Full-Stack Developer | CS Student
 
 </div>
 
-### ARCHITECTURE
-I am a Computer Science student with a focus on building high-performance full-stack applications. Currently, I am developing **Dyslexia-Lens** to improve accessibility and **Epoch**, a stock market backtesting sandbox. My portfolio also includes **Ghostwriter**, a specialized content platform.
-
+### PROFILE
+I am a computer science student and a full-stack developer dedicated to building high-performance applications that bridge complex backend logic with intuitive user experiences.I am currently learning a lot of new tech and will be posting my projects here.
 ---
 
 ### CORE_STACK
