@@ -1,7 +1,7 @@
 <div align="center">
 
 # ABHIJEET SENAPATI
-**Full-Stack Developer • CS Student **
+Full-Stack Developer • CS Student 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Architecting+Modern+Web;Building+Scalable+Backends;Engineering+for+Impact" alt="Typing SVG" />
 
