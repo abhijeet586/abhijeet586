@@ -2,7 +2,7 @@
 
 # Abhijeet Senapati
 
-**Full-Stack Developer | CS Undergrad at VIT Vellore**
+**Full-Stack Developer | CS Undergrad**
 
 I build applications that look great and perform even better.
 
@@ -17,7 +17,7 @@ I build applications that look great and perform even better.
 
 ### About
 
-Computer Science student at Vellore Institute of Technology with a focus on full-stack development. My journey started with a curiosity for how things work on the internet and has since evolved into building production-ready applications using modern technologies. When I'm not coding, you'll find me gaming, singing, or exploring new tech.
+Computer Science student with a focus on full-stack development. My journey started with a curiosity for how things work on the internet and has since evolved into building production-ready applications using modern technologies. When I'm not coding, you'll find me gaming, singing, or exploring new tech.
 
 ---
 
