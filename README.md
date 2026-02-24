@@ -19,9 +19,7 @@ I am a Computer Science student with a focus on building high-performance full-s
 ---
 
 ### █ CORE_STACK
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,aws,git&theme=dark" />
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,aws,git&theme=dark" />
 
 ---
 
