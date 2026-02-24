@@ -1,56 +1,47 @@
 <div align="center">
 
-#  SYSTEM_INIT: ABHIJEET SENAPATI
-**FULL-STACK ARCHITECT // CS UNDERGRAD**
+# ABHIJEET SENAPATI
+**Full-Stack Developer**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=LOADING+CREATIVITY...;EXECUTING+CODE+PARADIGMS;OPTIMIZING+SYSTEM+ARCHITECTURE;STATUS:+INNOVATING" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Architecting+Scalable+Solutions;Building+Modern+Web+Experiences;Engineering+Robust+Backends" alt="Typing SVG" />
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/TERMINAL-PORTFOLIO-00F2FF?style=for-the-badge&logo=vercel&logoColor=black)](https://abhijeet586.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-senapati-b6a27a2a7/)
-[![Email](https://img.shields.io/badge/SEND-ENCRYPTED_MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senapatiabhijeet55@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://abhijeet586.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-senapati-b6a27a2a7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:senapatiabhijeet55@gmail.com)
 
 </div>
 
-### █ ARCHITECTURE_CORE
-> Dedicated to building high-performance digital ecosystems. My methodology focuses on bridging the gap between low-level logic and high-level user interaction. Currently specializing in full-stack development and exploring scalable backend architectures.
+### About
+I am a Computer Science student at Vellore Institute of Technology focused on the intersection of performance and design. My work ranges from building **Ghostwriter**, a full-stack content platform, to developing **Epoch**, a sandbox for backtesting stock market algorithms. Currently, I am also engineering **Dyslexia-Lens**, an application focused on accessibility and readability.
 
 ---
 
-### █ TECH_MATRIX
+### Technologies
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=js,py,cpp,java,ts,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,git,vercel,aws&theme=dark&perline=8)
-
-<br/>
-
-| SUBSYSTEM | TECHNOLOGIES |
-| :--- | :--- |
-| **CORE_LANG** | `JavaScript` `Python` `C++` `Java` `TypeScript` |
-| **INTERFACE** | `React.js` `Next.js` `TailwindCSS` `HTML5/CSS3` |
-| **BACKEND** | `Node.js` `Express.js` `PostgreSQL` `MongoDB` |
-| **INFRA** | `Docker` `Git` `Vercel` `AWS` |
+![Skill Icons](https://skillicons.dev/icons?i=js,ts,py,cpp,react,nextjs,tailwind,nodejs,express,postgres,mongodb,docker,aws,git&theme=dark)
 
 </div>
 
 ---
 
-### █ ANALYTICS_MODULE
+### Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet586&show_icons=true&theme=blood&hide_border=true&count_private=true&title_color=00F2FF&icon_color=00F2FF&text_color=FFFFFF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet586&layout=compact&theme=blood&hide_border=true&title_color=00F2FF&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet586&show_icons=true&theme=transparent&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=FFFFFF&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet586&layout=compact&theme=transparent&hide_border=true&title_color=00D1FF&text_color=FFFFFF" height="150"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet586&theme=blood&hide_border=true&stroke=00F2FF&ring=00F2FF&fire=00F2FF&currStreakNum=00F2FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet586&theme=transparent&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakNum=00D1FF" alt="GitHub Streak" />
 </div>
 
 ---
 
-### █ RECENT_ACTIVITY_STREAM
+### Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijeet586/abhijeet586/output/github-contribution-grid-snake-dark.svg">
@@ -62,7 +53,6 @@
 
 <div align="center">
 
-**[ END_OF_TRANSMISSION ]**
-*Open for collaboration on high-impact projects.*
+*Open for collaboration on innovative full-stack projects.*
 
 </div>
