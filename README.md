@@ -1,9 +1,10 @@
 <div align="center">
 
-# ABHIJEET SENAPATI
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&lines=ABHIJEET+SENAPATI" alt="Name" />
+
 Full-Stack Developer | CS Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Architecting+Modern+Web;Building+Scalable+Backends;Engineering+for+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=20&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Architecting+Modern+Web;Building+Scalable+Backends;Engineering+for+Impact" alt="Typing SVG" />
 
 ---
 
@@ -26,10 +27,12 @@ I am a Computer Science student with a focus on building high-performance full-s
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
