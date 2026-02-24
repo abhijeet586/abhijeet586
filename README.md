@@ -16,7 +16,7 @@ Full-Stack Developer | CS Student
 
 ### PROFILE
 <p>I am a computer science student and a full-stack developer dedicated to building high-performance applications that bridge complex backend logic with intuitive user experiences.I am currently learning a lot of new tech and will be posting my projects here.</p>
----
+<hr/>
 
 ### CORE_STACK
 
